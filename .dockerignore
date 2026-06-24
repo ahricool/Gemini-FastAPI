@@ -1,0 +1,17 @@
+.git
+.github
+.venv
+.ruff_cache
+__pycache__
+*.py[cod]
+*.egg-info
+
+.env
+data
+cache
+certs
+
+.DS_Store
+.vscode
+.idea
+.cursor
